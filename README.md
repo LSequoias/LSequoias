@@ -1,4 +1,4 @@
-![Cover](github.com/LSequoias/LSequoias/cover/me.jpg)
+![Cover](https://github.com/LSequoias/LSequoias/blob/main/cover/me.jpg)
 <!--
 **LSequoias/LSequoias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
