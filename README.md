@@ -1,6 +1,6 @@
 
 <div id="badges" align="center">
-  <img src="https://github.com/LSequoias/LSequoias/blob/main/cover/me.jpg">
+  <img src="https://github.com/LSequoias/LSequoias/blob/main/cover/me.jpg" height="auto" width="200" style="border-radius:50%">
   
   <div id="badges" align="center">
     <img src="https://img.shields.io/badge/-HTML-red">
