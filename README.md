@@ -1,1 +1,1 @@
-![Cover](https://github.com/LSequoias/cover/me.jpg)
+![Cover](https://github.com/LSequoias/LSequoias/blob/main/cover/me.jpg)
