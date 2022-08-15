@@ -1,6 +1,3 @@
-![Github stats](https://github-readme-stats.vercel.app/api?username=LSequoias&theme=aura&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=LSequoias&theme=aura)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=LSequoias&repo=repo-name&show_owner=true&theme=aura)](https://github.com/LSequoias/repo-name)
 <div id="badges" align="center">
   <img src="https://github.com/LSequoias/LSequoias/blob/main/cover/me.jpg" height="auto" width="200" style="border-radius:50%">
   
@@ -24,3 +21,5 @@
   <img src="https://img.shields.io/badge/-JetBrain-violet">
   <img src="https://img.shields.io/badge/-Figma-purple">
 </div>
+![Github stats](https://github-readme-stats.vercel.app/api?username=LSequoias&theme=aura&show_icons=true&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=LSequoias&theme=aura)
