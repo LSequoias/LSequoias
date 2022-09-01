@@ -1,27 +1,22 @@
-<style>
-r { color: Red }
-o { color: Orange }
-g { color: Green }
-</style>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=LSequoias&theme=aura&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=LSequoias&theme=aura)
 
 ### Rappel des normes de commit
 
-> <r>build</r> : Changement qui affecte l'architecture du projet comme *npm* ou *composer*
+> **build** : Changement qui affecte l'architecture du projet comme *npm* ou *composer*
 
-> ci : Continue intégration : Jenkin gitLab etc
+> **ci** : Continue intégration : Jenkin gitLab etc
 
-> feat : Pour feature, implémentation d'une nouvelle fonctionnalitée
+> **feat** : Pour feature, implémentation d'une nouvelle fonctionnalitée
 
-> fix : Correction d'un bug
+> **fix** : Correction d'un bug
 
-> perf : Amélioration des performances
+> **perf** : Amélioration des performances
 
-> refactor : Modification du code sans affectée le fonctionnement
+> **refactor** : Modification du code sans affectée le fonctionnement
 
-> style : Modification, rajout concernant le css
+> **style** : Modification, rajout concernant le css
 
-> docs : Documentation du projet
+> **docs** : Documentation du projet
 
-> test : Ajout, modification des tests
+> **test** : Ajout, modification des tests
