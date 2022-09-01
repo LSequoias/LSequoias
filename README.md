@@ -1,10 +1,14 @@
-
+<style>
+r { color: Red }
+o { color: Orange }
+g { color: Green }
+</style>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=LSequoias&theme=aura&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=LSequoias&theme=aura)
 
 ### Rappel des normes de commit
 
-> build : Changement qui affecte l'architecture du projet comme *npm* ou *composer*
+> <r>build</r> : Changement qui affecte l'architecture du projet comme *npm* ou *composer*
 
 > ci : Continue intégration : Jenkin gitLab etc
 
