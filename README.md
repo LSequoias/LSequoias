@@ -3,20 +3,20 @@
 
 ### Rappel des normes de commit
 
-> **build** : Changement qui affecte l'architecture du projet comme *npm* ou *composer*
+> **build** : :package: Changement qui affecte l'architecture du projet comme *npm* ou *composer*
 
-> **ci** : Continue intégration : Jenkin gitLab etc
+> **ci** : :globe_with_meridians: Continue intégration : Jenkin gitLab etc
 
-> **feat** : Pour feature, implémentation d'une nouvelle fonctionnalitée
+> **feat** : :construction: Pour feature, implémentation d'une nouvelle fonctionnalitée
 
-> **fix** : Correction d'un bug
+> **fix** : :pushpin: Correction d'un bug
 
-> **perf** : Amélioration des performances
+> **perf** : :wrench: Amélioration des performances
 
-> **refactor** : Modification du code sans affectée le fonctionnement
+> **refactor** : :recycle: Modification du code sans affectée le fonctionnement
 
-> **style** : Modification, rajout concernant le css
+> **style** : :art: Modification, rajout concernant le css
 
-> **docs** : Documentation du projet
+> **docs** : :page_facing_up: Documentation du projet
 
-> **test** : Ajout, modification des tests
+> **test** : :white_check_mark: Ajout, modification des tests
