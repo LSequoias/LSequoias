@@ -8,7 +8,7 @@ Je ne push pas systématiquement lorsque je fait quelques choses, tout simplemen
 Les Forks viennent de mes autres comptes, pour ne pas trop rouiller sur Git j'ai donc décidée de faire quelques comptes gérant différentes choses
 - Captus pour le web
 - ??? seras pour les test unitaires, QA.
-- Lsequoias pour le desktops et le réseaux
+- LSequoias pour le desktops et le réseaux
 
 
 ### Rappel des normes de commit
