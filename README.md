@@ -4,6 +4,12 @@ L'idée est de faire de ce dépot un storage de SideProjet sur des technologies 
 ### Pourquoi il y as si peu de push :
 Je ne push pas systématiquement lorsque je fait quelques choses, tout simplement.
 
+### Les Forks
+Les Forks viennent de mes autres comptes, pour ne pas trop rouiller sur Git j'ai donc décidée de faire quelques comptes gérant différentes choses
+- Captus pour le web
+- ??? seras pour les test unitaires, QA.
+- Lsequoias pour le desktops et le réseaux
+
 
 ### Rappel des normes de commit
 _ça c'est pour moi, prennez pas en compte_ 
